@@ -3,9 +3,8 @@
 
 #include "framework.h"
 #include "WinDeskLauncher.h"
-#include <shellapi.h>
 
-#define MAX_LOADSTRING 100
+#include <shellapi.h>
 
 int APIENTRY wWinMain(
         _In_ HINSTANCE hInstance,
