@@ -25,8 +25,7 @@ int APIENTRY wWinMain(
     }
     else for (int i = 0; i < exeArgc; i++) {
         // Retrive parameters.
-        auto arg_ = exeArgv[i];
-        auto argRef_ = &arg_;
+        
     }
     return 0;
 }
