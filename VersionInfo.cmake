@@ -1,6 +1,6 @@
 # Version metadata
 set(APP_RELEASE_VERSION_STRING "1.0.0")
-set(APP_DESCRIPTION_STR "Windows Desktop App Launcher.")
+set(APP_DESCRIPTION_STR "Windows Desktop App Launcher")
 set(APP_LICENSE_STR "MIT")
 set(APP_COPYRIGHT_STR "Copyright (c) 2022 Don Johnny.")
 set(APP_INTERNAL_NAME_STR "WinDeskLauncher")
